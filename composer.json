@@ -8,5 +8,7 @@
             "email": "olahkris@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "4.4.41"
+    }
 }
