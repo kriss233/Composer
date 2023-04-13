@@ -1,0 +1,12 @@
+{
+    "name": "kris/composer",
+    "description": "Composer test project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kristof Olah",
+            "email": "olahkris@gmail.com"
+        }
+    ],
+    "require": {}
+}
