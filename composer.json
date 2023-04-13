@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "symfony/var-dumper": "4.4.41"
+        "symfony/var-dumper": "4.4.41",
+        "symfony/dotenv": "^6.2"
     }
 }
